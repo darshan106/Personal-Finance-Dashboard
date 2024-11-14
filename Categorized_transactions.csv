@@ -1,0 +1,265 @@
+Date,Transaction Names,Transaction Type,Amount (INR),Transaction vs category,Transaction,Category
+02-01-2023,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+12-01-2023,PVR Cinemas,Expense,1307,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+14-01-2023,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+17-01-2023,Disney+ Hotstar,Expense,800,1. Disney+ Hotstar - Entertainment,Disney+ Hotstar,Entertainment
+21-01-2023,Corner House,Expense,2330,5. Corner House - Food/Dining,Corner House,Food and Drinks
+22-01-2023,Cult.Fit,Expense,2301,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+23-01-2023,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+24-01-2023,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+29-01-2023,Big Bazaar,Expense,3132,9. Big Bazaar - Grocery Shopping,Big Bazaar,Grocery Shopping
+29-01-2023,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+31-01-2023,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+02-02-2023,PVR Cinemas,Expense,1416,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+06-02-2023,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+07-02-2023,Zee5,Expense,800,12. Zee5 - Entertainment,Zee5,Entertainment
+09-02-2023,Easyday,Expense,3440,13. Easyday - Grocery Shopping,Easyday,Grocery Shopping
+10-02-2023,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+10-02-2023,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+11-02-2023,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+11-02-2023,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+17-02-2023,Koshy's,Expense,3172,14. Koshy's - Food/Dining,Koshy's,Food and Drinks
+22-02-2023,Cult.Fit,Expense,2403,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+27-02-2023,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+01-03-2023,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+01-03-2023,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+04-03-2023,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+06-03-2023,MTR 1924,Expense,3628,15. MTR 1924 - Restaurant,MTR 1924,Food and Drinks
+09-03-2023,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+14-03-2023,PVR Cinemas,Expense,1025,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+20-03-2023,Reliance Fresh,Expense,3951,16. Reliance Fresh - Grocery Shopping,Reliance Fresh,Grocery Shopping
+25-03-2023,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+26-03-2023,Cult.Fit,Expense,1932,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+27-03-2023,Disney+ Hotstar,Expense,800,1. Disney+ Hotstar - Entertainment,Disney+ Hotstar,Entertainment
+30-03-2023,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+02-04-2023,Reliance Fresh,Expense,3622,16. Reliance Fresh - Grocery Shopping,Reliance Fresh,Grocery Shopping
+10-04-2023,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+11-04-2023,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+14-04-2023,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+14-04-2023,Cult.Fit,Expense,2378,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+15-04-2023,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+15-04-2023,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+17-04-2023,Netflix,Expense,800,17. Netflix - Entertainment,Netflix,Entertainment
+23-04-2023,PVR Cinemas,Expense,1128,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+27-04-2023,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+30-04-2023,Corner House,Expense,1657,5. Corner House - Food/Dining,Corner House,Food and Drinks
+01-05-2023,Cult.Fit,Expense,2464,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+04-05-2023,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+07-05-2023,Barbecue Nation,Expense,3078,18. Barbecue Nation - Restaurant,Barbecue Nation,Food and Drinks
+14-05-2023,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+14-05-2023,Spencer's,Expense,3503,19. Spencer's - Gifts/Souvenirs,Spencer's,Gifts/Souvenirs
+16-05-2023,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+18-05-2023,PVR Cinemas,Expense,1344,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+20-05-2023,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+23-05-2023,Disney+ Hotstar,Expense,800,1. Disney+ Hotstar - Entertainment,Disney+ Hotstar,Entertainment
+29-05-2023,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+29-05-2023,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+05-06-2023,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+08-06-2023,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+08-06-2023,Disney+ Hotstar,Expense,800,1. Disney+ Hotstar - Entertainment,Disney+ Hotstar,Entertainment
+10-06-2023,PVR Cinemas,Expense,1034,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+13-06-2023,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+14-06-2023,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+16-06-2023,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+23-06-2023,Easyday,Expense,3312,13. Easyday - Grocery Shopping,Easyday,Grocery Shopping
+25-06-2023,Toit,Expense,3573,20. Toit - Food/Dining,Toit,Food and Drinks
+26-06-2023,Cult.Fit,Expense,2478,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+30-06-2023,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+01-07-2023,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+01-07-2023,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+02-07-2023,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+11-07-2023,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+11-07-2023,Big Bazaar,Expense,2927,9. Big Bazaar - Grocery Shopping,Big Bazaar,Grocery Shopping
+15-07-2023,Cult.Fit,Expense,1872,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+20-07-2023,The Permit Room,Expense,1770,21. The Permit Room - Restaurant,The Permit Room,Food and Drinks
+22-07-2023,Zee5,Expense,800,12. Zee5 - Entertainment,Zee5,Entertainment
+23-07-2023,PVR Cinemas,Expense,1308,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+27-07-2023,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+31-07-2023,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+02-08-2023,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+03-08-2023,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+16-08-2023,Foodworld,Expense,3272,22. Foodworld - Grocery Shopping,Foodworld,Grocery Shopping
+17-08-2023,Cult.Fit,Expense,1993,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+21-08-2023,MTR 1924,Expense,2393,15. MTR 1924 - Restaurant,MTR 1924,Food and Drinks
+22-08-2023,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+23-08-2023,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+24-08-2023,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+24-08-2023,PVR Cinemas,Expense,1216,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+29-08-2023,Amazon Prime,Expense,800,23. Amazon Prime - Entertainment,Amazon Prime,Entertainment
+31-08-2023,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+06-09-2023,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+08-09-2023,Cult.Fit,Expense,1823,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+11-09-2023,Zee5,Expense,800,12. Zee5 - Entertainment,Zee5,Entertainment
+14-09-2023,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+16-09-2023,Toit,Expense,2452,20. Toit - Food/Dining,Toit,Food and Drinks
+17-09-2023,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+17-09-2023,PVR Cinemas,Expense,1034,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+23-09-2023,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+23-09-2023,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+26-09-2023,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+28-09-2023,More Supermarket,Expense,3333,24. More Supermarket - Grocery Shopping,More Supermarket,Grocery Shopping
+03-10-2023,PVR Cinemas,Expense,1412,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+05-10-2023,Koshy's,Expense,2390,14. Koshy's - Food/Dining,Koshy's,Food and Drinks
+06-10-2023,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+08-10-2023,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+12-10-2023,Cult.Fit,Expense,1995,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+12-10-2023,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+14-10-2023,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+20-10-2023,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+22-10-2023,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+26-10-2023,Reliance Fresh,Expense,3644,16. Reliance Fresh - Grocery Shopping,Reliance Fresh,Grocery Shopping
+26-10-2023,Zee5,Expense,800,12. Zee5 - Entertainment,Zee5,Entertainment
+04-11-2023,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+10-11-2023,Barbecue Nation,Expense,2739,18. Barbecue Nation - Restaurant,Barbecue Nation,Food and Drinks
+13-11-2023,PVR Cinemas,Expense,1236,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+15-11-2023,Cult.Fit,Expense,1934,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+18-11-2023,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+19-11-2023,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+23-11-2023,Disney+ Hotstar,Expense,800,1. Disney+ Hotstar - Entertainment,Disney+ Hotstar,Entertainment
+24-11-2023,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+26-11-2023,Easyday,Expense,2676,13. Easyday - Grocery Shopping,Easyday,Grocery Shopping
+27-11-2023,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+29-11-2023,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+01-12-2023,The Permit Room,Expense,2809,21. The Permit Room - Restaurant,The Permit Room,Food and Drinks
+06-12-2023,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+10-12-2023,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+12-12-2023,PVR Cinemas,Expense,1466,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+13-12-2023,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+15-12-2023,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+17-12-2023,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+19-12-2023,Easyday,Expense,2947,13. Easyday - Grocery Shopping,Easyday,Grocery Shopping
+26-12-2023,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+28-12-2023,Amazon Prime,Expense,800,23. Amazon Prime - Entertainment,Amazon Prime,Entertainment
+29-12-2023,Cult.Fit,Expense,2232,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+01-01-2024,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+06-01-2024,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+09-01-2024,Corner House,Expense,2982,5. Corner House - Food/Dining,Corner House,Food and Drinks
+10-01-2024,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+12-01-2024,Zee5,Expense,800,12. Zee5 - Entertainment,Zee5,Entertainment
+13-01-2024,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+16-01-2024,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+17-01-2024,Cult.Fit,Expense,2324,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+20-01-2024,Reliance Fresh,Expense,2963,16. Reliance Fresh - Grocery Shopping,Reliance Fresh,Grocery Shopping
+26-01-2024,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+27-01-2024,PVR Cinemas,Expense,1488,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+02-02-2024,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+04-02-2024,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+07-02-2024,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+11-02-2024,PVR Cinemas,Expense,1344,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+14-02-2024,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+15-02-2024,Foodworld,Expense,2544,22. Foodworld - Grocery Shopping,Foodworld,Grocery Shopping
+18-02-2024,Truffles,Expense,3116,25. Truffles - Gifts/Souvenirs,Truffles,Gifts/Souvenirs
+19-02-2024,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+20-02-2024,Zee5,Expense,800,12. Zee5 - Entertainment,Zee5,Entertainment
+28-02-2024,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+28-02-2024,Cult.Fit,Expense,2326,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+04-03-2024,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+08-03-2024,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+11-03-2024,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+13-03-2024,The Permit Room,Expense,2763,21. The Permit Room - Restaurant,The Permit Room,Food and Drinks
+17-03-2024,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+20-03-2024,Netflix,Expense,800,17. Netflix - Entertainment,Netflix,Entertainment
+21-03-2024,Cult.Fit,Expense,2446,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+21-03-2024,PVR Cinemas,Expense,1373,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+22-03-2024,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+23-03-2024,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+31-03-2024,Big Bazaar,Expense,3857,9. Big Bazaar - Grocery Shopping,Big Bazaar,Grocery Shopping
+02-04-2024,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+04-04-2024,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+06-04-2024,Cult.Fit,Expense,2239,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+07-04-2024,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+09-04-2024,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+10-04-2024,The Permit Room,Expense,2053,21. The Permit Room - Restaurant,The Permit Room,Food and Drinks
+15-04-2024,More Supermarket,Expense,2619,24. More Supermarket - Grocery Shopping,More Supermarket,Grocery Shopping
+15-04-2024,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+20-04-2024,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+23-04-2024,Amazon Prime,Expense,800,23. Amazon Prime - Entertainment,Amazon Prime,Entertainment
+26-04-2024,PVR Cinemas,Expense,1312,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+01-05-2024,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+01-05-2024,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+04-05-2024,Toit,Expense,1598,20. Toit - Food/Dining,Toit,Food and Drinks
+13-05-2024,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+14-05-2024,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+17-05-2024,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+22-05-2024,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+25-05-2024,PVR Cinemas,Expense,1062,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+28-05-2024,More Supermarket,Expense,3599,24. More Supermarket - Grocery Shopping,More Supermarket,Grocery Shopping
+30-05-2024,Disney+ Hotstar,Expense,800,1. Disney+ Hotstar - Entertainment,Disney+ Hotstar,Entertainment
+30-05-2024,Cult.Fit,Expense,1993,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+06-06-2024,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+06-06-2024,Cult.Fit,Expense,1973,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+10-06-2024,Chai Point,Expense,2071,26. Chai Point - Food/Dining,Chai Point,Food and Drinks
+13-06-2024,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+14-06-2024,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+16-06-2024,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+16-06-2024,Disney+ Hotstar,Expense,800,1. Disney+ Hotstar - Entertainment,Disney+ Hotstar,Entertainment
+20-06-2024,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+23-06-2024,Reliance Fresh,Expense,3813,16. Reliance Fresh - Grocery Shopping,Reliance Fresh,Grocery Shopping
+24-06-2024,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+26-06-2024,PVR Cinemas,Expense,1184,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+02-07-2024,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+02-07-2024,Chai Point,Expense,3831,26. Chai Point - Food/Dining,Chai Point,Food and Drinks
+04-07-2024,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+05-07-2024,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+09-07-2024,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+13-07-2024,Amazon Prime,Expense,800,23. Amazon Prime - Entertainment,Amazon Prime,Entertainment
+15-07-2024,Cult.Fit,Expense,2469,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+18-07-2024,PVR Cinemas,Expense,1301,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+21-07-2024,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+26-07-2024,More Supermarket,Expense,3491,24. More Supermarket - Grocery Shopping,More Supermarket,Grocery Shopping
+31-07-2024,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+02-08-2024,Easyday,Expense,3259,13. Easyday - Grocery Shopping,Easyday,Grocery Shopping
+05-08-2024,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+10-08-2024,Truffles,Expense,2803,25. Truffles - Gifts/Souvenirs,Truffles,Gifts/Souvenirs
+12-08-2024,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+14-08-2024,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+15-08-2024,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+22-08-2024,Cult.Fit,Expense,2047,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+24-08-2024,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+28-08-2024,PVR Cinemas,Expense,1021,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+29-08-2024,Disney+ Hotstar,Expense,800,1. Disney+ Hotstar - Entertainment,Disney+ Hotstar,Entertainment
+29-08-2024,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+01-09-2024,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+01-09-2024,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+02-09-2024,PVR Cinemas,Expense,1489,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+05-09-2024,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+06-09-2024,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+10-09-2024,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+15-09-2024,Cult.Fit,Expense,2375,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+17-09-2024,Spencer's,Expense,3673,19. Spencer's - Gifts/Souvenirs,Spencer's,Gifts/Souvenirs
+19-09-2024,Corner House,Expense,2177,5. Corner House - Food/Dining,Corner House,Food and Drinks
+22-09-2024,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+29-09-2024,Disney+ Hotstar,Expense,800,1. Disney+ Hotstar - Entertainment,Disney+ Hotstar,Entertainment
+02-10-2024,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+09-10-2024,Barbecue Nation,Expense,3423,18. Barbecue Nation - Restaurant,Barbecue Nation,Food and Drinks
+15-10-2024,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+15-10-2024,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+18-10-2024,Amazon Prime,Expense,800,23. Amazon Prime - Entertainment,Amazon Prime,Entertainment
+19-10-2024,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+20-10-2024,Foodworld,Expense,3478,22. Foodworld - Grocery Shopping,Foodworld,Grocery Shopping
+21-10-2024,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+30-10-2024,Cult.Fit,Expense,2056,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+30-10-2024,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+31-10-2024,PVR Cinemas,Expense,1392,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+02-11-2024,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+04-11-2024,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+08-11-2024,Spencer's,Expense,3183,19. Spencer's - Gifts/Souvenirs,Spencer's,Gifts/Souvenirs
+09-11-2024,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities
+09-11-2024,Netflix,Expense,800,17. Netflix - Entertainment,Netflix,Entertainment
+18-11-2024,Cult.Fit,Expense,1997,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+21-11-2024,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+23-11-2024,Chai Point,Expense,1864,26. Chai Point - Food/Dining,Chai Point,Food and Drinks
+24-11-2024,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+24-11-2024,PVR Cinemas,Expense,1424,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+26-11-2024,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+01-12-2024,Dream Apartment,Expense,28000,4. Dream Apartment - Housing,Dream Apartment,Housing
+05-12-2024,PVR Cinemas,Expense,1151,3. PVR Cinemas - Entertainment,PVR Cinemas,Entertainment
+11-12-2024,Cult.Fit,Expense,2012,6. Cult.Fit - Fitness,Cult.Fit,Fitness
+12-12-2024,Netflix,Expense,800,17. Netflix - Entertainment,Netflix,Entertainment
+18-12-2024,Water Bill,Expense,500,11. Water Bill - Utilities,Water Bill,Utilities
+20-12-2024,Software Engineer,Income,75000,2. Software Engineer - Salary,Software Engineer,Salary
+21-12-2024,Easyday,Expense,3837,13. Easyday - Grocery Shopping,Easyday,Grocery Shopping
+21-12-2024,MTR 1924,Expense,3708,15. MTR 1924 - Restaurant,MTR 1924,Food and Drinks
+23-12-2024,ACT Fibernet,Expense,1500,10. ACT Fibernet - Internet Service Provider,ACT Fibernet,Internet Service Provider
+24-12-2024,Website Design,Income,15000,8. Website Design - Technology,Website Design,Technology
+27-12-2024,Electricity Bill,Expense,1500,7. Electricity Bill - Utilities,Electricity Bill,Utilities

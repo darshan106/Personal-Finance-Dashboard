@@ -1,0 +1,265 @@
+Date,Transaction Names,Transaction Type,Amount (INR)
+02-01-2023,Software Engineer,Income,75000
+12-01-2023,PVR Cinemas,Expense,1307
+14-01-2023,Dream Apartment,Expense,28000
+17-01-2023,Disney+ Hotstar,Expense,800
+21-01-2023,Corner House,Expense,2330
+22-01-2023,Cult.Fit,Expense,2301
+23-01-2023,Electricity Bill,Expense,1500
+24-01-2023,Website Design,Income,15000
+29-01-2023,Big Bazaar,Expense,3132
+29-01-2023,ACT Fibernet,Expense,1500
+31-01-2023,Water Bill,Expense,500
+02-02-2023,PVR Cinemas,Expense,1416
+06-02-2023,Software Engineer,Income,75000
+07-02-2023,Zee5,Expense,800
+09-02-2023,Easyday,Expense,3440
+10-02-2023,Dream Apartment,Expense,28000
+10-02-2023,Electricity Bill,Expense,1500
+11-02-2023,Water Bill,Expense,500
+11-02-2023,Website Design,Income,15000
+17-02-2023,Koshy's,Expense,3172
+22-02-2023,Cult.Fit,Expense,2403
+27-02-2023,ACT Fibernet,Expense,1500
+01-03-2023,Software Engineer,Income,75000
+01-03-2023,Dream Apartment,Expense,28000
+04-03-2023,Website Design,Income,15000
+06-03-2023,MTR 1924,Expense,3628
+09-03-2023,Electricity Bill,Expense,1500
+14-03-2023,PVR Cinemas,Expense,1025
+20-03-2023,Reliance Fresh,Expense,3951
+25-03-2023,ACT Fibernet,Expense,1500
+26-03-2023,Cult.Fit,Expense,1932
+27-03-2023,Disney+ Hotstar,Expense,800
+30-03-2023,Water Bill,Expense,500
+02-04-2023,Reliance Fresh,Expense,3622
+10-04-2023,Electricity Bill,Expense,1500
+11-04-2023,ACT Fibernet,Expense,1500
+14-04-2023,Water Bill,Expense,500
+14-04-2023,Cult.Fit,Expense,2378
+15-04-2023,Software Engineer,Income,75000
+15-04-2023,Website Design,Income,15000
+17-04-2023,Netflix,Expense,800
+23-04-2023,PVR Cinemas,Expense,1128
+27-04-2023,Dream Apartment,Expense,28000
+30-04-2023,Corner House,Expense,1657
+01-05-2023,Cult.Fit,Expense,2464
+04-05-2023,Dream Apartment,Expense,28000
+07-05-2023,Barbecue Nation,Expense,3078
+14-05-2023,Electricity Bill,Expense,1500
+14-05-2023,Spencer's,Expense,3503
+16-05-2023,Water Bill,Expense,500
+18-05-2023,PVR Cinemas,Expense,1344
+20-05-2023,Software Engineer,Income,75000
+23-05-2023,Disney+ Hotstar,Expense,800
+29-05-2023,Website Design,Income,15000
+29-05-2023,ACT Fibernet,Expense,1500
+05-06-2023,Software Engineer,Income,75000
+08-06-2023,Dream Apartment,Expense,28000
+08-06-2023,Disney+ Hotstar,Expense,800
+10-06-2023,PVR Cinemas,Expense,1034
+13-06-2023,Electricity Bill,Expense,1500
+14-06-2023,Website Design,Income,15000
+16-06-2023,ACT Fibernet,Expense,1500
+23-06-2023,Easyday,Expense,3312
+25-06-2023,Toit,Expense,3573
+26-06-2023,Cult.Fit,Expense,2478
+30-06-2023,Water Bill,Expense,500
+01-07-2023,Software Engineer,Income,75000
+01-07-2023,Electricity Bill,Expense,1500
+02-07-2023,Dream Apartment,Expense,28000
+11-07-2023,Water Bill,Expense,500
+11-07-2023,Big Bazaar,Expense,2927
+15-07-2023,Cult.Fit,Expense,1872
+20-07-2023,The Permit Room,Expense,1770
+22-07-2023,Zee5,Expense,800
+23-07-2023,PVR Cinemas,Expense,1308
+27-07-2023,Website Design,Income,15000
+31-07-2023,ACT Fibernet,Expense,1500
+02-08-2023,Electricity Bill,Expense,1500
+03-08-2023,Dream Apartment,Expense,28000
+16-08-2023,Foodworld,Expense,3272
+17-08-2023,Cult.Fit,Expense,1993
+21-08-2023,MTR 1924,Expense,2393
+22-08-2023,ACT Fibernet,Expense,1500
+23-08-2023,Website Design,Income,15000
+24-08-2023,Software Engineer,Income,75000
+24-08-2023,PVR Cinemas,Expense,1216
+29-08-2023,Amazon Prime,Expense,800
+31-08-2023,Water Bill,Expense,500
+06-09-2023,Water Bill,Expense,500
+08-09-2023,Cult.Fit,Expense,1823
+11-09-2023,Zee5,Expense,800
+14-09-2023,Electricity Bill,Expense,1500
+16-09-2023,Toit,Expense,2452
+17-09-2023,Dream Apartment,Expense,28000
+17-09-2023,PVR Cinemas,Expense,1034
+23-09-2023,Software Engineer,Income,75000
+23-09-2023,ACT Fibernet,Expense,1500
+26-09-2023,Website Design,Income,15000
+28-09-2023,More Supermarket,Expense,3333
+03-10-2023,PVR Cinemas,Expense,1412
+05-10-2023,Koshy's,Expense,2390
+06-10-2023,Water Bill,Expense,500
+08-10-2023,Electricity Bill,Expense,1500
+12-10-2023,Cult.Fit,Expense,1995
+12-10-2023,Website Design,Income,15000
+14-10-2023,Software Engineer,Income,75000
+20-10-2023,ACT Fibernet,Expense,1500
+22-10-2023,Dream Apartment,Expense,28000
+26-10-2023,Reliance Fresh,Expense,3644
+26-10-2023,Zee5,Expense,800
+04-11-2023,Electricity Bill,Expense,1500
+10-11-2023,Barbecue Nation,Expense,2739
+13-11-2023,PVR Cinemas,Expense,1236
+15-11-2023,Cult.Fit,Expense,1934
+18-11-2023,Website Design,Income,15000
+19-11-2023,ACT Fibernet,Expense,1500
+23-11-2023,Disney+ Hotstar,Expense,800
+24-11-2023,Dream Apartment,Expense,28000
+26-11-2023,Easyday,Expense,2676
+27-11-2023,Water Bill,Expense,500
+29-11-2023,Software Engineer,Income,75000
+01-12-2023,The Permit Room,Expense,2809
+06-12-2023,Software Engineer,Income,75000
+10-12-2023,ACT Fibernet,Expense,1500
+12-12-2023,PVR Cinemas,Expense,1466
+13-12-2023,Water Bill,Expense,500
+15-12-2023,Dream Apartment,Expense,28000
+17-12-2023,Website Design,Income,15000
+19-12-2023,Easyday,Expense,2947
+26-12-2023,Electricity Bill,Expense,1500
+28-12-2023,Amazon Prime,Expense,800
+29-12-2023,Cult.Fit,Expense,2232
+01-01-2024,Dream Apartment,Expense,28000
+06-01-2024,Software Engineer,Income,75000
+09-01-2024,Corner House,Expense,2982
+10-01-2024,ACT Fibernet,Expense,1500
+12-01-2024,Zee5,Expense,800
+13-01-2024,Electricity Bill,Expense,1500
+16-01-2024,Website Design,Income,15000
+17-01-2024,Cult.Fit,Expense,2324
+20-01-2024,Reliance Fresh,Expense,2963
+26-01-2024,Water Bill,Expense,500
+27-01-2024,PVR Cinemas,Expense,1488
+02-02-2024,Software Engineer,Income,75000
+04-02-2024,Dream Apartment,Expense,28000
+07-02-2024,Website Design,Income,15000
+11-02-2024,PVR Cinemas,Expense,1344
+14-02-2024,Electricity Bill,Expense,1500
+15-02-2024,Foodworld,Expense,2544
+18-02-2024,Truffles,Expense,3116
+19-02-2024,ACT Fibernet,Expense,1500
+20-02-2024,Zee5,Expense,800
+28-02-2024,Water Bill,Expense,500
+28-02-2024,Cult.Fit,Expense,2326
+04-03-2024,ACT Fibernet,Expense,1500
+08-03-2024,Water Bill,Expense,500
+11-03-2024,Dream Apartment,Expense,28000
+13-03-2024,The Permit Room,Expense,2763
+17-03-2024,Website Design,Income,15000
+20-03-2024,Netflix,Expense,800
+21-03-2024,Cult.Fit,Expense,2446
+21-03-2024,PVR Cinemas,Expense,1373
+22-03-2024,Electricity Bill,Expense,1500
+23-03-2024,Software Engineer,Income,75000
+31-03-2024,Big Bazaar,Expense,3857
+02-04-2024,Software Engineer,Income,75000
+04-04-2024,Electricity Bill,Expense,1500
+06-04-2024,Cult.Fit,Expense,2239
+07-04-2024,Water Bill,Expense,500
+09-04-2024,Dream Apartment,Expense,28000
+10-04-2024,The Permit Room,Expense,2053
+15-04-2024,More Supermarket,Expense,2619
+15-04-2024,Website Design,Income,15000
+20-04-2024,ACT Fibernet,Expense,1500
+23-04-2024,Amazon Prime,Expense,800
+26-04-2024,PVR Cinemas,Expense,1312
+01-05-2024,Software Engineer,Income,75000
+01-05-2024,Electricity Bill,Expense,1500
+04-05-2024,Toit,Expense,1598
+13-05-2024,Dream Apartment,Expense,28000
+14-05-2024,ACT Fibernet,Expense,1500
+17-05-2024,Website Design,Income,15000
+22-05-2024,Water Bill,Expense,500
+25-05-2024,PVR Cinemas,Expense,1062
+28-05-2024,More Supermarket,Expense,3599
+30-05-2024,Disney+ Hotstar,Expense,800
+30-05-2024,Cult.Fit,Expense,1993
+06-06-2024,Water Bill,Expense,500
+06-06-2024,Cult.Fit,Expense,1973
+10-06-2024,Chai Point,Expense,2071
+13-06-2024,ACT Fibernet,Expense,1500
+14-06-2024,Website Design,Income,15000
+16-06-2024,Dream Apartment,Expense,28000
+16-06-2024,Disney+ Hotstar,Expense,800
+20-06-2024,Software Engineer,Income,75000
+23-06-2024,Reliance Fresh,Expense,3813
+24-06-2024,Electricity Bill,Expense,1500
+26-06-2024,PVR Cinemas,Expense,1184
+02-07-2024,Software Engineer,Income,75000
+02-07-2024,Chai Point,Expense,3831
+04-07-2024,Website Design,Income,15000
+05-07-2024,ACT Fibernet,Expense,1500
+09-07-2024,Dream Apartment,Expense,28000
+13-07-2024,Amazon Prime,Expense,800
+15-07-2024,Cult.Fit,Expense,2469
+18-07-2024,PVR Cinemas,Expense,1301
+21-07-2024,Electricity Bill,Expense,1500
+26-07-2024,More Supermarket,Expense,3491
+31-07-2024,Water Bill,Expense,500
+02-08-2024,Easyday,Expense,3259
+05-08-2024,Electricity Bill,Expense,1500
+10-08-2024,Truffles,Expense,2803
+12-08-2024,ACT Fibernet,Expense,1500
+14-08-2024,Dream Apartment,Expense,28000
+15-08-2024,Software Engineer,Income,75000
+22-08-2024,Cult.Fit,Expense,2047
+24-08-2024,Water Bill,Expense,500
+28-08-2024,PVR Cinemas,Expense,1021
+29-08-2024,Disney+ Hotstar,Expense,800
+29-08-2024,Website Design,Income,15000
+01-09-2024,Dream Apartment,Expense,28000
+01-09-2024,Water Bill,Expense,500
+02-09-2024,PVR Cinemas,Expense,1489
+05-09-2024,Electricity Bill,Expense,1500
+06-09-2024,Website Design,Income,15000
+10-09-2024,Software Engineer,Income,75000
+15-09-2024,Cult.Fit,Expense,2375
+17-09-2024,Spencer's,Expense,3673
+19-09-2024,Corner House,Expense,2177
+22-09-2024,ACT Fibernet,Expense,1500
+29-09-2024,Disney+ Hotstar,Expense,800
+02-10-2024,Software Engineer,Income,75000
+09-10-2024,Barbecue Nation,Expense,3423
+15-10-2024,Electricity Bill,Expense,1500
+15-10-2024,Website Design,Income,15000
+18-10-2024,Amazon Prime,Expense,800
+19-10-2024,Dream Apartment,Expense,28000
+20-10-2024,Foodworld,Expense,3478
+21-10-2024,Water Bill,Expense,500
+30-10-2024,Cult.Fit,Expense,2056
+30-10-2024,ACT Fibernet,Expense,1500
+31-10-2024,PVR Cinemas,Expense,1392
+02-11-2024,Water Bill,Expense,500
+04-11-2024,Software Engineer,Income,75000
+08-11-2024,Spencer's,Expense,3183
+09-11-2024,Electricity Bill,Expense,1500
+09-11-2024,Netflix,Expense,800
+18-11-2024,Cult.Fit,Expense,1997
+21-11-2024,Website Design,Income,15000
+23-11-2024,Chai Point,Expense,1864
+24-11-2024,Dream Apartment,Expense,28000
+24-11-2024,PVR Cinemas,Expense,1424
+26-11-2024,ACT Fibernet,Expense,1500
+01-12-2024,Dream Apartment,Expense,28000
+05-12-2024,PVR Cinemas,Expense,1151
+11-12-2024,Cult.Fit,Expense,2012
+12-12-2024,Netflix,Expense,800
+18-12-2024,Water Bill,Expense,500
+20-12-2024,Software Engineer,Income,75000
+21-12-2024,Easyday,Expense,3837
+21-12-2024,MTR 1924,Expense,3708
+23-12-2024,ACT Fibernet,Expense,1500
+24-12-2024,Website Design,Income,15000
+27-12-2024,Electricity Bill,Expense,1500
