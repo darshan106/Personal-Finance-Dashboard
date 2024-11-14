@@ -78,14 +78,14 @@ cd <repository-folder>
 
 ---
 
-## **Contributing:**
-
-Feel free to fork the repository and contribute to the project. Suggestions for improving the transaction categorization, enhancing the dashboard, or adding new visualizations are welcome!
+## Dashboard Screenshot
+![Dashboard](Dashboard.png)
 
 ---
 
-## Dashboard Screenshot
-![Dashboard](Dashboard.png)
+## **Contributing:**
+
+Feel free to fork the repository and contribute to the project. Suggestions for improving the transaction categorization, enhancing the dashboard, or adding new visualizations are welcome!
 
 ---
 
