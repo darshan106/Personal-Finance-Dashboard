@@ -84,6 +84,11 @@ Feel free to fork the repository and contribute to the project. Suggestions for 
 
 ---
 
+## Dashboard Screenshot
+![Dashboard](Dashboard.png)
+
+---
+
 ## **License:**
 
 This project is open-source and licensed under the MIT License.
