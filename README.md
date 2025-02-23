@@ -1,7 +1,7 @@
 # **Project Name: Personal Finance Dashboard**
 
 ## **Description:**
-This project is designed to generate and categorize personal financial transactions and visualize them through an interactive dashboard. It comprises multiple steps:
+This project is designed to generate and categorize personal financial transactions and visualise them through an interactive dashboard. It comprises multiple steps:
 
 1. **Generate Transaction Data:** The `generate_transactions.ipynb` script creates a CSV file (`Transactions_2023-24.csv`) that contains random income and expense transactions. These transactions are generated based on the user's favorite places in Bangalore, reflecting real-life spending patterns.
 
