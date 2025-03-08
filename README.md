@@ -3,9 +3,9 @@
 ## **Description:**
 This project is designed to generate and categorize personal financial transactions and visualise them through an interactive dashboard. It comprises multiple steps:
 
-1. **Generate Transaction Data:** The `generate_transactions.ipynb` script creates a CSV file (`Transactions_2023-24.csv`) that contains random income and expense transactions. These transactions are generated based on the user's favorite places in Bangalore, reflecting real-life spending patterns.
+1. **Generate Transaction Data:** The `generate_transactions.py` script creates a CSV file (`Transactions_2023-24.csv`) that contains random income and expense transactions. These transactions are generated based on the user's favorite places in Bangalore, reflecting real-life spending patterns.
 
-2. **Categorize Transactions:** The `categorize_expenses.ipynb` notebook categorizes the generated transactions into categories like "Salary," "Entertainment," "Food and Drinks," etc., using a Local Language Model (LLM) – Ollama2.
+2. **Categorize Transactions:** The `categorize_expenses.py` notebook categorizes the generated transactions into categories like "Salary," "Entertainment," "Food and Drinks," etc., using a Local Language Model (LLM) – Ollama2.
 
 3. **Visualize Data in Dashboard:** The `dashboard.ipynb` file takes the categorized transactions and displays them in an interactive dashboard using Plotly and Panel, providing a visual analysis of the user's income and expenses.
 
@@ -51,11 +51,11 @@ cd <repository-folder>
 
 1. **Generate Transaction Data:**
 
-   - Run the `generate_transactions.ipynb` notebook to generate a CSV file (`Transactions_2023-24.csv`). This file will contain random transactions that reflect spending patterns in Bangalore (e.g., restaurants, supermarkets, utilities).
+   - Run the `generate_transactions.py` notebook to generate a CSV file (`Transactions_2023-24.csv`). This file will contain random transactions that reflect spending patterns in Bangalore (e.g., restaurants, supermarkets, utilities).
 
 2. **Categorize the Transactions:**
 
-   - After generating the data, run the `categorize_expenses.ipynb` notebook. This file uses the **Ollama2 LLM** to categorize the transactions into predefined categories like "Income," "Entertainment," and "Food and Drinks." The output is saved into two files: `Categories_df_all.csv` and `Categorized_transactions.csv`.
+   - After generating the data, run the `categorize_expenses.py` notebook. This file uses the **Ollama2 LLM** to categorize the transactions into predefined categories like "Income," "Entertainment," and "Food and Drinks." The output is saved into two files: `Categories_df_all.csv` and `Categorized_transactions.csv`.
 
    **Note:** Ensure that Ollama2 is running on your local machine before executing this notebook, as it is used for transaction categorization.
 
@@ -68,10 +68,10 @@ cd <repository-folder>
 ## **Usage Instructions:**
 
 1. **Running the Transaction Data Generator:**
-   - Use the `generate_transactions.ipynb` notebook to create the raw transaction data file (`Transactions_2023-24.csv`).
+   - Use the `generate_transactions.py` notebook to create the raw transaction data file (`Transactions_2023-24.csv`).
    
 2. **Categorizing the Transactions:**
-   - Use `categorize_expenses.ipynb` to categorize the transactions into predefined categories. Ensure the Ollama2 local LLM is set up and running.
+   - Use `categorize_expenses.py` to categorize the transactions into predefined categories. Ensure the Ollama2 local LLM is set up and running.
 
 3. **Visualizing the Data:**
    - Use `dashboard.ipynb` to visualize your categorized income and expenses with interactive charts and graphs. The dashboard will display income and expense data in a user-friendly manner.
