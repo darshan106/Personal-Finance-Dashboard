@@ -1,5 +1,7 @@
 # **Project Name: Personal Finance Dashboard**
 
+---
+
 ## **Description:**
 This project is designed to generate and categorize personal financial transactions and visualise them through an interactive dashboard. It comprises multiple steps:
 
