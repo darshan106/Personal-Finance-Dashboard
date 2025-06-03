@@ -1,5 +1,4 @@
 # **Project Name: Personal Finance Dashboard**
-
 ---
 
 ## **Description:**
