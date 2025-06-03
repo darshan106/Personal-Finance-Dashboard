@@ -7,7 +7,7 @@ This project is designed to generate and categorize personal financial transacti
 
 2. **Categorize Transactions:** The `categorize_expenses.py` notebook categorizes the generated transactions into categories like "Salary," "Entertainment," "Food and Drinks," etc., using a Local Language Model (LLM) – Ollama2.
 
-3. **Visualize Data in Dashboard:** The `dashboard.ipynb` file takes the categorized transactions and displays them in an interactive dashboard using Plotly and Panel, providing a visual analysis of the user's income and expenses.
+3. **Visualize Data in Dashboard:** The `dashboard.py` file takes the categorized transactions and displays them in an interactive dashboard using Plotly and Panel, providing a visual analysis of the user's income and expenses.
 
 ---
 
@@ -61,7 +61,7 @@ cd <repository-folder>
 
 3. **Visualize the Categorized Data:**
 
-   - Finally, run the `dashboard.ipynb` notebook to visualize the categorized transactions in an interactive dashboard. It generates pie charts and bar charts for both income and expenses, helping you analyze your financial trends over 2023 and 2024.
+   - Finally, run the `dashboard.py` notebook to visualize the categorized transactions in an interactive dashboard. It generates pie charts and bar charts for both income and expenses, helping you analyze your financial trends over 2023 and 2024.
 
 ---
 
@@ -74,7 +74,7 @@ cd <repository-folder>
    - Use `categorize_expenses.py` to categorize the transactions into predefined categories. Ensure the Ollama2 local LLM is set up and running.
 
 3. **Visualizing the Data:**
-   - Use `dashboard.ipynb` to visualize your categorized income and expenses with interactive charts and graphs. The dashboard will display income and expense data in a user-friendly manner.
+   - Use `dashboard.py` to visualize your categorized income and expenses with interactive charts and graphs. The dashboard will display income and expense data in a user-friendly manner.
 
 ---
 
